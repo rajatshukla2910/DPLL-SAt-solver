@@ -1,0 +1,6 @@
+1)To run the sat solver open the my_sat_solver.ipynb file in jupyter notebook.
+2)Enter the file name which should be in DIMACS format with .cnf extention(eg sat.cnf) and in the same directory
+  where my_sat_solver.ipynb is present.Input file should not contain any extra sapces and should not have any extra symbol
+  at the end of the file.
+3)Output of the problem will be stored in optput.txt 
+4)10 sat and 10 usnat files are provided as test cases in the same folder 
